@@ -1,0 +1,5 @@
+Primitive data type in java are of four types:
+1. Integral (2 byte) -- int,short,long,byte
+2. float -- doubles
+3. char 
+4. Boolean

@@ -1,0 +1,19 @@
+Precedence--
+-precedence means which operator will execute first,
+- every operator has some precedence values
+- greater the precedence value greater the chance operator execute first
+
+
+() precedence value - 14
+* precendence value -  12
+/ precedence value - 12
+% precendence value - 12
+
++ precedance value : 11
+- precedance value : 11
+
+Associativity--(if precedance of two operator are same the we see the associativity)
+associativity of operator means direction of operator
+
+* / %     -- associativity is from left to right
++ -       -- associativity is from left to right
