@@ -1,0 +1,13 @@
+Concurrency-
+          Performing a single task at a time but managing multiple task at a same,
+          know to be a concurrency. 
+
+    example:
+           Suppose a student study and play cricket in day ,
+           when he study he do not play cricket , when he play cricket he do not study.
+
+Parallelism:
+            Performing mutiple task at a time known to be Parallelism.
+        example:
+            Suppose a person typed by one hand write by another hand at a same time .
+            
